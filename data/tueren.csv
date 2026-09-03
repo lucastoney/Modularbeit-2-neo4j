@@ -1,0 +1,8 @@
+türId,bezeichnung,sicherheitsrelevant,sicherheitstür,raumId,leserId
+T001,Haupteingang,false,false,RA001,L001
+T002,Büroflur,false,false,RA002,L002
+T003,Serverraumtür,true,true,RA003,L003
+T004,Technikraumtür,true,true,RA004,L004
+T005,Archivzugang,true,true,RA005,L005
+T006,Leitstellenzugang,true,true,RA006,L006
+T007,Besucherzugang,false,false,RA001,L007

@@ -1,0 +1,4 @@
+controllerId,name,standort
+C001,Controller Erdgeschoss,Technikschrank Erdgeschoss
+C002,Controller Technikzone,Technikschrank Untergeschoss
+C003,Controller Sicherheitskern,Sicherheitsleitstelle

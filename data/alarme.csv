@@ -1,0 +1,6 @@
+alarmId,typ,schweregrad,status,zeitpunkt,raumId,zoneId,systemId
+AL001,Tür zu lange offen,hoch,aktiv,2026-06-12T08:15:00+02:00,RA003,Z03,S001
+AL002,Einbruchalarm,kritisch,aktiv,2026-06-12T22:41:00+02:00,RA006,Z04,S002
+AL003,Bewegung außerhalb Zeitfenster,mittel,quittiert,2026-06-11T23:05:00+02:00,RA004,Z03,S003
+AL004,Manipulation am Leser,hoch,geschlossen,2026-06-10T14:20:00+02:00,RA005,Z02,S001
+AL005,Unbefugte Bewegung erkannt,hoch,aktiv,2026-06-12T02:33:00+02:00,RA003,Z03,S003

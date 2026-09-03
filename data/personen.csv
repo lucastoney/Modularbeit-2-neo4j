@@ -1,0 +1,8 @@
+personId,vorname,nachname,abteilung,status,gefahrenstufe,rolleId,ausweisId
+P001,Anna,Keller,Personal,aktiv,tief,R01,A001
+P002,Marco,Frei,Informatik,aktiv,mittel,R02,A002
+P003,Lara,Meier,Sicherheit,aktiv,hoch,R03,A003
+P004,Jonas,Roth,Externe Wartung,aktiv,mittel,R04,A004
+P005,Nina,Baum,Facility Management,aktiv,tief,R05,A005
+P006,Elias,Moser,Informatik,aktiv,hoch,R02,A006
+P007,Sophia,Graf,Besuch,inaktiv,tief,R06,A007

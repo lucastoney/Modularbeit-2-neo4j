@@ -1,0 +1,7 @@
+rolleId,name,beschreibung,gruppeId
+R01,Mitarbeitende,Reguläre Mitarbeitende mit Bürozugang,G01
+R02,IT-Administration,Administration der zentralen IT-Infrastruktur,G03
+R03,Sicherheitsdienst,Überwachung und Intervention in Sicherheitsbereichen,G04
+R04,Externe Wartung,Zeitlich begrenzte technische Wartungsaufgaben,G02
+R05,Facility Management,Betrieb und Unterhalt der Gebäudeinfrastruktur,G05
+R06,Besuch,Beaufsichtigter Zutritt zum Empfangsbereich,G06

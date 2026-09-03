@@ -1,0 +1,8 @@
+leserId,bezeichnung,typ,controllerId
+L001,Leser Haupteingang außen,RFID,C001
+L002,Leser Büroflur,RFID,C001
+L003,Leser Serverraum,Biometrie und RFID,C002
+L004,Leser Technikraum,RFID,C002
+L005,Leser Archiv,RFID,C002
+L006,Leser Sicherheitsleitstelle,Biometrie und RFID,C003
+L007,Leser Besucherzugang,QR-Code,C001

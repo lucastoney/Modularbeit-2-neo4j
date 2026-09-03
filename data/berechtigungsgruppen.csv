@@ -1,0 +1,7 @@
+gruppeId,name,risikostufe,türIds
+G01,Standard Büro,tief,T001;T002
+G02,Wartung eingeschränkt,mittel,T001;T004
+G03,IT kritische Bereiche,hoch,T001;T002;T003
+G04,Sicherheitsvollzug,hoch,T001;T002;T003;T004;T005;T006
+G05,Gebäudebetrieb,mittel,T001;T002;T004;T005
+G06,Besucherbereich,tief,T007

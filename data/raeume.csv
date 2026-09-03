@@ -1,0 +1,7 @@
+raumId,name,funktion,kritikalität,zoneId
+RA001,Empfang,Empfang und Anmeldung,tief,Z01
+RA002,Großraumbüro,Allgemeiner Bürobereich,mittel,Z02
+RA003,Serverraum,Betrieb zentraler IT-Systeme,hoch,Z03
+RA004,Technikraum,Gebäude- und Versorgungstechnik,hoch,Z03
+RA005,Archiv,Aufbewahrung vertraulicher Unterlagen,mittel,Z02
+RA006,Sicherheitsleitstelle,Überwachung und Alarmbearbeitung,hoch,Z04

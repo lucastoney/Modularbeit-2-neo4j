@@ -1,0 +1,4 @@
+systemId,name,typ,status,raumIds,zoneIds
+S001,Zentrale Zutrittskontrolle,Zutrittskontrolle,aktiv,RA001;RA002;RA003;RA004;RA005;RA006,Z01;Z02;Z03;Z04
+S002,Einbruchmeldeanlage,Einbruchmeldeanlage,aktiv,RA003;RA004;RA005;RA006,Z02;Z03;Z04
+S003,Videoüberwachung,Videoüberwachung,aktiv,RA001;RA003;RA006,Z01;Z03;Z04

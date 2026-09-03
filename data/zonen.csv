@@ -1,0 +1,5 @@
+zoneId,name,stufe
+Z01,Öffentlicher Bereich,tief
+Z02,Interner Bereich,mittel
+Z03,Kritische Zone,hoch
+Z04,Sicherheitskern,hoch
