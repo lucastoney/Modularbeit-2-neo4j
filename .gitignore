@@ -8,27 +8,3 @@ diagrams/
 
 # Screenshots und Exporte
 screenshots/
-exports/
-_qa*/
-
-# Neo4j-Laufzeitdaten, Exporte und Protokolle
-neo4j-data/
-logs/
-*.log
-*.dump
-*.backup
-*.archive
-*.pid
-
-# Temporäre Dateien und Editor-Metadaten
-_tmp*
-tmp/
-temp/
-__pycache__/
-*.py[cod]
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.swp
-*~
